@@ -1,2 +1,2 @@
-# CI
-![CI](https://github.com/aleshaeslichto/ahj-env/actions/workflows/web.yml/badge.svg)
+# DOM-1
+![DOM-1](https://github.com/aleshaeslichto/ahj-dom/actions/workflows/web.yml/badge.svg)

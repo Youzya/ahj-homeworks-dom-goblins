@@ -1,3 +1,15 @@
-body {
-    color: #999;
+.game-board {
+  max-width: 500px;
+  max-height: 500px;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
 }
+.cell {
+  border-radius: 10px;
+  border: 1px solid rgb(1, 1, 1);
+  background-color: blue;
+}
+
+
