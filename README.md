@@ -1,2 +1,1 @@
-#DOM 2.1
-[![Build status](https://ci.appveyor.com/api/projects/status/4jccgqv8wwm5lt7n?svg=true)](https://ci.appveyor.com/project/aleshaeslichto/ahj-homeworks-dom1)
+![DOM 2.1](https://github.com/aleshaeslichto/ahj-homeworks-dom1/actions/workflows/web.yml/badge.svg)
